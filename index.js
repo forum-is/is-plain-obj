@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = value => {
+module.exports = function(value) {
 	if (Object.prototype.toString.call(value) !== '[object Object]') {
 		return false;
 	}
