@@ -1,3 +1,5 @@
+# Updated to restore compatibility with Internet Explorer 11
+
 # is-plain-obj [![Build Status](https://travis-ci.com/sindresorhus/is-plain-obj.svg?branch=master)](https://travis-ci.com/github/sindresorhus/is-plain-obj)
 
 > Check if a value is a plain object
